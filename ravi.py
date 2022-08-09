@@ -9,3 +9,9 @@ age = input()
 print('You will be ' + str(int(age) + 1  + ' in a year.'))
 
 
+x, y = input("Enter two values: ").split()
+print("Number of boys: ", x)
+print("Number of girls: ", y)
+print()
+
+
