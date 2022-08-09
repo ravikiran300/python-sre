@@ -6,7 +6,6 @@ print('good to meet you' ,  myname)
 print(len(myname))
 
 age = input()
-print('my age is ' +  str(int(age) + 1 + ' in a year' ))
 print('You will be ' + str(int(age) + 1  + ' in a year.'))
 
 
